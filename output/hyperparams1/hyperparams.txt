@@ -1,0 +1,5 @@
+image_size = 256
+batch_size = 1
+lr = 1e-4
+style_weight = 20.0
+num_epochs = 150
